@@ -3,7 +3,7 @@ import { AboutSection } from './components/Home/AboutSection'
 import { MembersSection } from './components/Home/MembersSection'
 import { OurNumberSection } from './components/Home/OurNumberSection'
 import { Partners } from './components/Home/Partners'
-import { ServiceSection } from './components/Home/ServiceSection '
+import { ServiceSection } from './components/Home/ServiceSection'
 import { TestemonialSection } from './components/Home/TestemonialsSection'
 import WhyChooseUsSection from './components/Home/WhyChooseUsSection'
 
