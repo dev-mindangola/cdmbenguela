@@ -1,5 +1,5 @@
 import { OurNumberSection } from '@/app/components/Home/OurNumberSection'
-import { ServiceSection } from '@/app/components/Home/ServiceSection '
+import { ServiceSection } from '@/app/components/Home/ServiceSection'
 import { Header } from '@/app/components/Shared/Header'
 import { createClient } from '@/prismicio'
 import { LucideStar } from 'lucide-react'
