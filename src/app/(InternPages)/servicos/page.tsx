@@ -4,6 +4,8 @@ import { Header } from '@/app/components/Shared/Header'
 import { createClient } from '@/prismicio'
 import { LucideStar } from 'lucide-react'
 
+const dynamic = 'force-dynamic'
+
 export default async function ServicePage() {
   const client = createClient()
 
