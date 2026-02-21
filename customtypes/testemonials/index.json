@@ -1,0 +1,49 @@
+{
+  "format": "custom",
+  "id": "testemonials",
+  "label": "Testemunhos",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "testemonial": {
+        "type": "Group",
+        "config": {
+          "label": "testemonial",
+          "repeat": true,
+          "fields": {
+            "avatar": {
+              "type": "Image",
+              "config": {
+                "label": "Avatar",
+                "constraint": {},
+                "thumbnails": []
+              }
+            },
+            "name": {
+              "type": "Text",
+              "config": {
+                "label": "Name",
+                "placeholder": ""
+              }
+            },
+            "role": {
+              "type": "Text",
+              "config": {
+                "label": "Cargo",
+                "placeholder": ""
+              }
+            },
+            "description": {
+              "type": "Text",
+              "config": {
+                "label": "Descrição",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

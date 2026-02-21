@@ -1,0 +1,93 @@
+{
+  "format": "custom",
+  "id": "curso_de_musica",
+  "label": "Curso de música",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "UID"
+        }
+      },
+      "cover": {
+        "type": "Image",
+        "config": {
+          "label": "Cover",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "name": {
+        "type": "Text",
+        "config": {
+          "label": "Nome",
+          "placeholder": ""
+        }
+      },
+      "description": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Descrição",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "instrutores": {
+        "type": "Group",
+        "config": {
+          "label": "Instrutores",
+          "repeat": true,
+          "fields": {
+            "avatar": {
+              "type": "Image",
+              "config": {
+                "label": "Avatar",
+                "constraint": {},
+                "thumbnails": []
+              }
+            },
+            "nome": {
+              "type": "Text",
+              "config": {
+                "label": "Nome",
+                "placeholder": ""
+              }
+            },
+            "descricao": {
+              "type": "Text",
+              "config": {
+                "label": "Descrição",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      },
+      "duracao": {
+        "type": "Text",
+        "config": {
+          "label": "Duração",
+          "placeholder": ""
+        }
+      },
+      "investimento": {
+        "type": "Number",
+        "config": {
+          "label": "Investimento",
+          "placeholder": ""
+        }
+      },
+      "valor_da_inscricao": {
+        "type": "Number",
+        "config": {
+          "label": "Valor da inscrição",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

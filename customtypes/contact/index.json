@@ -1,0 +1,48 @@
+{
+  "format": "custom",
+  "id": "contact",
+  "label": "Contactos",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "section": {
+        "type": "Group",
+        "config": {
+          "label": "Secção",
+          "repeat": true,
+          "fields": {
+            "sectionName": {
+              "type": "Text",
+              "config": {
+                "label": "Nome da secção",
+                "placeholder": ""
+              }
+            },
+            "item_1": {
+              "type": "Text",
+              "config": {
+                "label": "Item 1",
+                "placeholder": ""
+              }
+            },
+            "item_2": {
+              "type": "Text",
+              "config": {
+                "label": "Item 2",
+                "placeholder": ""
+              }
+            },
+            "item_4": {
+              "type": "Text",
+              "config": {
+                "label": "Item 4",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

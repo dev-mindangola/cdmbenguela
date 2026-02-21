@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "tag": "destaque",
+        "category": "aulas de música",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Descubra a Alegria de Aprender Piano",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "Nossas aulas de piano inspiram os alunos a explorar sua criatividade enquanto dominam este instrumento atemporal. Junte-se a nós!",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "tag": "experiência",
+        "category": "apresentação de alunos",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Recital Anual: Alunos Brilham no Palco",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "O recital anual destacou nossos talentosos alunos com apresentações memoráveis em diversos gêneros musicais.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "tag": "entrevista",
+        "category": "destaque do professor",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Conheça Nossa Professora de Canto: Emily Rivera",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "Emily Rivera compartilha sua paixão pelo ensino e sua trajetória como vocalista profissional inspirando jovens cantores.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "tag": "habilidade",
+        "category": "cuidados com instrumentos",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Dicas para Cuidar do Seu Violão",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "Aprenda dicas essenciais para manter seu violão em ótimo estado, garantindo som de qualidade e longa durabilidade.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "tag": "negócios",
+        "category": "indústria musical",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Como Construir uma Carreira na Música",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "De shows a gravações em estúdio, explore os passos para transformar sua paixão pela música em uma carreira gratificante.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "tag": "design",
+        "category": "novidades na escola",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Novas Salas de Prática Disponíveis",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "Adicionamos salas de prática modernas equipadas com os melhores instrumentos para um ambiente perfeito de aprendizado.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "tag": "destaque",
+        "category": "aulas de música",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Aulas de Violino para Iniciantes",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "Inicie sua jornada no violino com a orientação de nossos instrutores especializados. Inscreva-se em nossas aulas para iniciantes!",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "tag": "experiência",
+        "category": "eventos comunitários",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Oficina Musical: Aprenda e Improvise",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "Nossa oficina interativa reuniu amantes da música para uma sessão divertida e educativa de improvisação.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "tag": "entrevista",
+        "category": "histórias de alunos",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Destaque do Aluno: A Jornada Musical do João",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "João, um jovem guitarrista, compartilha como a Academia Harmonia tem ajudado em seu crescimento como músico.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "tag": "habilidade",
+        "category": "teoria musical",
+        "img": "/about/IMG_8518.jpg",
+        "title": "Compreendendo Progressões de Acordes",
+        "author": "Academia Harmonia",
+        "avatar": "/images/member/60x60.png",
+        "date": "2 dias atrás",
+        "desc": "Mergulhe no mundo das progressões de acordes e descubra como elas formam a base de muitas grandes músicas.",
+        "listImg": [
+            "/about/IMG_8518.jpg",
+            "/about/IMG_8518.jpg"
+        ]
+    }
+]

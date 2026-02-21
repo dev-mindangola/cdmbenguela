@@ -1,0 +1,42 @@
+{
+  "format": "custom",
+  "id": "parceiros",
+  "label": "Parceiros",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "parceiros": {
+        "type": "Group",
+        "config": {
+          "label": "Parceiros",
+          "repeat": true,
+          "fields": {
+            "logo": {
+              "type": "Image",
+              "config": {
+                "label": "Logo",
+                "constraint": {},
+                "thumbnails": []
+              }
+            },
+            "nome": {
+              "type": "Text",
+              "config": {
+                "label": "Nome",
+                "placeholder": ""
+              }
+            },
+            "description": {
+              "type": "Text",
+              "config": {
+                "label": "Description",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

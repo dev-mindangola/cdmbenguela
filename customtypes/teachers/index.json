@@ -1,0 +1,49 @@
+{
+  "format": "custom",
+  "id": "teachers",
+  "label": "Professores",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "professor": {
+        "type": "Group",
+        "config": {
+          "label": "professor",
+          "repeat": true,
+          "fields": {
+            "avatar": {
+              "type": "Image",
+              "config": {
+                "label": "Avatar",
+                "constraint": {},
+                "thumbnails": []
+              }
+            },
+            "name": {
+              "type": "Text",
+              "config": {
+                "label": "Nome",
+                "placeholder": ""
+              }
+            },
+            "role": {
+              "type": "Text",
+              "config": {
+                "label": "Cargo",
+                "placeholder": ""
+              }
+            },
+            "description": {
+              "type": "Text",
+              "config": {
+                "label": "Descrição",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
