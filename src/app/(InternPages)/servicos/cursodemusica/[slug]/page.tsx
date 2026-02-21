@@ -6,6 +6,8 @@ import { LucideClock, LucideDollarSign } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
 
+export const dynamic = 'force-dynamic'
+
 type tParams = Promise<{ slug: string }>
 
 export default async function ServicePage(props: { params: tParams }) {
