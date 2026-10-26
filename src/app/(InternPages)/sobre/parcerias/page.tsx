@@ -31,7 +31,7 @@ export default async function PartnersPage() {
 
             <h2 className="font-bold mt-4 text-lg mb-4"> {partner.nome} </h2>
 
-            <p className="line-clamp-4">{partner?.description}</p>
+            <p className="line-clamp-9">{partner?.description}</p>
           </div>
         )
       })}

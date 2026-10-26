@@ -35,7 +35,7 @@ export default async function MemberDetailPage(props: { params: tParams }) {
               width={1200}
               height={2000}
               alt={String(member?.avatar?.alt)}
-              className="w-full object-cover max-h-96 object-top"
+              className="w-full object-cover min-h-96 aspect-square object-top"
             />
           </div>
 
