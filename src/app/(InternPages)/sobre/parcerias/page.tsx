@@ -1,5 +1,8 @@
 import { createClient } from '@/prismicio'
+import { buttonVariants } from '@/components/ui/button'
+import { slugify } from '@/lib/utils'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default async function PartnersPage() {
   const client = createClient()
@@ -31,7 +34,17 @@ export default async function PartnersPage() {
 
             <h2 className="font-bold mt-4 text-lg mb-4"> {partner.nome} </h2>
 
-            <p className="line-clamp-9">{partner?.description}</p>
+            <p className="line-clamp-4">{partner?.description}</p>
+
+            <Link
+              href={`/sobre/parcerias/${slugify(partner.nome ?? '')}`}
+              className={buttonVariants({
+                variant: 'outline',
+                className: 'mt-4 text-primary',
+              })}
+            >
+              Saber mais
+            </Link>
           </div>
         )
       })}
