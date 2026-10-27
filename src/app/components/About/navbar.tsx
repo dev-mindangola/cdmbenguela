@@ -12,8 +12,8 @@ export function NavBar() {
     { href: '/sobre/missao', name: 'Missão e valores da CDM' },
     { href: '/sobre/historia', name: 'Nossa história' },
     { href: '/sobre/motivodeescolha', name: 'Porquê estudar na CDM?' },
-    { href: '/sobre/parcerias', name: 'Colaborações e parcerias' },
-    { href: '/sobre/equipe', name: 'Membros' },
+    { href: '/sobre/parcerias', name: 'Parcerias' },
+    { href: '/sobre/equipe', name: 'Staff' },
   ]
   return (
     <aside>
